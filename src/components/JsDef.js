@@ -1,6 +1,6 @@
 import React from 'react';
 
-function JsDefinition(props) {
+const JsDefinition = (props)=> {
     return <h2>JS</h2>;
   }
 

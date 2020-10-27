@@ -1,6 +1,6 @@
 import React from 'react';
 
-function HtmlDefintion(props) {
+const HtmlDefintion = (props) => {
     return <h2>HTML</h2>;
   }
 

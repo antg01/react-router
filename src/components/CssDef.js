@@ -1,6 +1,6 @@
 import React from 'react';
 
-function CssDefinition(props) {
+const CssDefinition = (props) => {
     return <h2>CSS</h2>;
   }
 
